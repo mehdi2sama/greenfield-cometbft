@@ -40,7 +40,7 @@ issues:
     - text: "superfluous-else:"
       linters:
         - revive
-  max-same-issues: 50
+  max-same-issues: 67
 
 linters-settings:
   dogsled:
